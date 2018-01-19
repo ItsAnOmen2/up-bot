@@ -1,0 +1,20 @@
+{
+  "name": "up_bot",
+  "version": "1.0.0",
+  "description": "Helpful bot for UP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Uncensored",
+    "uncensored",
+    "Politics",
+    "politics"
+  ],
+  "author": "ItsAnOmen2",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
